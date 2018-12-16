@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><!--声明，版本和编码格式，文档注释。-->
+<books>
+	<book id="bk101">
+		<author>王二</author>
+		<title>高级编程</title>
+		<description>框架和编程</description>
+	</book>
+	<book>
+		<author>小三</author>
+	</book>
+</books>

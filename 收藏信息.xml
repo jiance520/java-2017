@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneInfo>
+	<Brand name="华为">
+		<Type name="P9">
+			<Color>红色</Color>
+			<Color>黑色</Color>
+		</Type>
+	</Brand>
+	<Brand name="苹果">
+		<Type name="Iphone6"/>
+		<Type name="Iphone7"/>
+	</Brand>
+</PhoneInfo>

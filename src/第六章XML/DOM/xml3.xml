@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biaoqian1>
+	<biaoqian2 range="height&lt;160">S</biaoqian2>
+	<size range="160&gt;height&lt;165">M</size>
+	<size range="165&gt;height&lt;170">L</size>
+</biaoqian1>
+<!-- 什么做属性，什么做标签，什么做属性值，什么做内容，属性值和内容是可变的 -->
+<!-- 标签属性可以随意取合法的名 -->

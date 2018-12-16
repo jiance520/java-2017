@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Element>
+	<Tag Attribute="info">Text</Tag>
+	<Tag>
+		<Node Attribute="info"/>
+	</Tag>
+</Element>

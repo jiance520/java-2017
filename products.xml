@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products> 
+  <product> 
+    <id>1</id>  
+    <name>苹果</name>  
+    <introduction>好吃</introduction>  
+    <factoryDate>2017-05-04</factoryDate>  
+    <product> 
+      <id>2</id>  
+      <name>西瓜</name>  
+      <introduction>甜</introduction>  
+      <factoryDate>2018-1-13</factoryDate> 
+    </product> 
+  </product> 
+</products>

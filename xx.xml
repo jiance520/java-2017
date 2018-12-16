@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="1"> 
+    <username>小明</username>  
+    <password>xiao1234</password>  
+    <email>xiao@qq.com</email> 
+  </user>  
+  <user id="2"/>
+  <username>老王</username>
+  <password>lao1234</password>
+  <email>wan@qq.com</email>
+</users>
